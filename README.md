@@ -8,7 +8,7 @@ A awesome dark theme widescreen for Stylish "extension for firefox"
 
 **Instalattion**
 
-[Click here](https://userstyles.org/styles/181906/telegram-awesome-black-wide) and click Install Style.
+[Click here](https://userstyles.org/style_screenshots/181906_after.jpeg?r=1585928195) and click Install Style.
 
 
 ![Telegram Awesome Black Wide](https://userstyles.org/style_screenshots/181906_after.jpeg)
